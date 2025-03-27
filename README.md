@@ -29,6 +29,10 @@ class PersonServiceTest {
     }
 }
 
+Conclusión
+•	BUILD SUCCESS: La compilación y la ejecución de las pruebas fueron exitosas.
+•	La prueba unitaria valida que el método createPersona de PersonService invoca el método save del repositorio personRepo, lo que confirma el correcto funcionamiento de esta parte de la lógica de negocio.
+
 
 # 📌 Resultado de las Pruebas con Maven Prueba unitaria para PersonService
 
@@ -272,4 +276,9 @@ Tiempo Total: Aproximadamente 11.603 s para el proceso completo (incluyendo comp
 Conclusión:
 La prueba de integración se ejecutó exitosamente, confirmando que la configuración de Spring Boot, JPA y la conexión a la base de datos funcionan correctamente. Esto valida la correcta integración de los componentes de la aplicación.
 
+
 Cristian David Otalvaro
+
+repositorio:
+
+https://github.com/plattat/apirest1A
