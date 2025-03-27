@@ -271,3 +271,5 @@ Tiempo Total: Aproximadamente 11.603 s para el proceso completo (incluyendo comp
 
 Conclusión:
 La prueba de integración se ejecutó exitosamente, confirmando que la configuración de Spring Boot, JPA y la conexión a la base de datos funcionan correctamente. Esto valida la correcta integración de los componentes de la aplicación.
+
+Cristian David Otalvaro
